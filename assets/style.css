@@ -657,7 +657,7 @@ h1
 }
 .row p {
   color: #575a7b;
-  font-size: 10px;
+  font-size: 11px;
   line-height: 1.6;
   letter-spacing: 0.03em;
 }
@@ -819,10 +819,9 @@ hr
   align-content: center;
   justify-content: center;
 }
-.menu-second img
+.menu__container img
 {
-  height: auto;
-  width: 420px;
+  width: 100%;
 }
 .third
 {
