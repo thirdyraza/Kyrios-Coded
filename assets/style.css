@@ -186,7 +186,7 @@ img
 .section-title
 {
   font-size: var(--h1-font-size);
-  color: var(--light-color);
+  color: var(--font-color-text-area);
   margin-bottom: var(--mb-3);
 }
 
